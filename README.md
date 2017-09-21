@@ -13,7 +13,7 @@ This program contains an **Option Pricing Calculator** based on the Black-Schole
  - Quizz
 
 ### Demo
-![gif animation]("Quick overview")
+![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif "overview")
 
 ### 2 - Computation
  - Computing the Option Price
@@ -26,7 +26,7 @@ This program contains an **Option Pricing Calculator** based on the Black-Schole
  - Volatility Smile
 
 ### Demo
-![gif animation]("Quick overview")
+![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/OptionPricing.gif "overview")
 
 ## Run the code
 In directory ```/Code/```.
